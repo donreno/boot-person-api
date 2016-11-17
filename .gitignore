@@ -1,0 +1,6 @@
+.gradle/
+.gradletasknamecache
+boot-person-api.iml
+boot-person-api.ipr
+boot-person-api.iws
+build/
